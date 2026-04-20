@@ -12,7 +12,6 @@ I am currently working on multiple full-stack projects focused on building real-
 
 
 # GitHub Stats:
-![](https://streak-stats.demolab.com/?user=apoorva-as&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=apoorva-as&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
