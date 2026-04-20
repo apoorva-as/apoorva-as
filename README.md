@@ -2,7 +2,7 @@
 I am currently working on multiple full-stack projects focused on building real-world applications with clean design and smooth user experience. I am interested in collaborating on open-source projects and practical web applications that solve real-world problems. At the moment, I am improving my understanding of backend development, system design, and integrating AI into applications. I am also looking for guidance in scaling applications and building more efficient backend systems.I believe in learning by building and consistently turning ideas into working products.
 
 
-## Socials:
+# Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xccx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@craft_withcode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apoorvaasati@gmail.com) 
 
