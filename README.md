@@ -4,7 +4,7 @@ I am currently working on multiple full-stack projects focused on building real-
 
 # Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xccx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@craft_withcode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apoorvaasati@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xccx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]() [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apoorvaasati@gmail.com) 
 
 
 # Tech Stack:
